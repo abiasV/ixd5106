@@ -39,7 +39,7 @@ No Comment
 > You must score above 70%
 
 
-### Code Sample (C#)
+### Code Sample
 ```figma
 No code
 
