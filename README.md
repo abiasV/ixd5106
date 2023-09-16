@@ -2,4 +2,4 @@
 
 ## Intro Design for Interaction
 
-Design is not my favorite 
+### I am not good at Design 
